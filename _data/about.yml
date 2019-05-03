@@ -13,7 +13,7 @@ text: |
 
   | Kind | Description |
   | ------ | ----------- |
-  | [projecteuler](https://projecteuler.net) | level_2 |
+  | [projecteuler](https://projecteuler.net) | ![level][bag_euler] |
   | [hackerrand](https://www.hackerrank.com) | point_275 |
 
   ## Fan
@@ -22,3 +22,7 @@ text: |
   + dc_commics
   + dragon_balls
   + nguyễn_nhật_ánh
+
+
+[bag_euler]: https://projecteuler.net/profile/tin.tran.png "Project Euler Bag"
+
